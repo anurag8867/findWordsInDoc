@@ -1,0 +1,26 @@
+{
+  "name": "findwordsindoc",
+  "version": "1.0.0",
+  "description": "Find most used words in a DOC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag8867/findWordsInDoc.git"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag8867/findWordsInDoc/issues"
+  },
+  "homepage": "https://github.com/anurag8867/findWordsInDoc#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.19.2",
+    "event-stream": "^4.0.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
